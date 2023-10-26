@@ -14,8 +14,8 @@ Square root of both sides:c = √(xA − xB)^2 + (yA − yB)^2
 Three or More Dimensions
 
 <img src="https://www.mathsisfun.com/algebra/images/dist-2-points-3d.svg"/>
- = √(8−3)2 + (2−5)2 + (6−7)2
-  = √52 + (−3)2 + (−1)2
+ = √(8−3)^2 + (2−5)^2 + (6−7)^2
+  = √52 + (−3)^2 + (−1)^2
   = √25 + 9 + 1
   = √35
 
