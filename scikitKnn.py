@@ -29,10 +29,6 @@ def recommen_movies(movie_query, k_recommendations):
     
     return movie_recommendations
 
-
-
-
-
 if __name__ == '__main__':
     the_post = [7.2, 1, 1, 0, 0, 0 ,0 ,1, 0] # feature vectoe for the Post
     recommended_movies = recommend_movies(movie_query=the_post, k_recommendations=5)
